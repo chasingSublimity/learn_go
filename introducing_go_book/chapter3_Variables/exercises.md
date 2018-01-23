@@ -1,7 +1,7 @@
 1. What are two ways to create a new variable?
   - With or without type inference
     - With: x := 'foo'
-    - Without: var x string := 'foo'
+    - Without: var x string = 'foo'
 
 2. What is the value of x after running x := 5; x += 1?
   - 6
